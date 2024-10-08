@@ -10,7 +10,7 @@ Swimmer at 5. Coder at 9.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ssnnd0&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ssnnd0&theme=light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssnnd0&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssnnd0&theme=auto&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ssnnd0&theme=radical&no-frame=true&no-bg=true&margin-w=4)
