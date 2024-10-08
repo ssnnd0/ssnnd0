@@ -1,4 +1,4 @@
-## # 💫 About Me:
+# 💫 About Me:
 Swimmer at 5. Coder at 9.
 
 
